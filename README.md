@@ -1,1 +1,1 @@
-https://github.com/Kbratland/itOrbinTime/blob/a471aec936d0bbf970bbcdff0c0f75b17460041b/Bjorn.mp4
+<a href="{video-url}" title="Link Title"><img src="{https://github.com/Kbratland/itOrbinTime/blob/main/Bjorn.mp4}" alt="Alternate Text" /></a>
